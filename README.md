@@ -1,7 +1,7 @@
 # IntegWindModelOS-C
 Pulling together an end-to-end model for wind-related physical risk, as a component of OS-C's physical risk models library.
 
-Main task is to integrate one or both of these approaches into OS-C for hazard and vulnerability. 
+Main task is to integrate one or both of these approaches into OS-C for hazard and vulnerability, pulling in the best available data (e.g. from IRIS)
 
 The hurricane dynamics model (HurriconPython) can be run as follows:
 1. Create a directory for a set of related model runs with subdirectories for input and output files.
